@@ -30,6 +30,14 @@ system should be able to automate the greenhouse and also increase the crop yiel
 is such that the sensors and related hardware connected to the system can be accessed from
 anywhere anytime via an android application using internet.
 
+## Block diagram
+
+![Alt text](/media/hari/Stuff/Major Project Latest/Latest/Project/Final_report/bd.PNG?raw=true "Block diagram of IoT based weather controlled smart greenhouse")
+
+## Hardware connection overview
+
+![Alt text](/media/hari/Stuff/Major Project Latest/Latest/Project/Final_report/hw.png?raw=true "Hardware connection of IoT based weather controlled smart greenhouse")
+
 ## Author
 
 [Srihari Rao M](https://www.github.com/melagirisriharirao)

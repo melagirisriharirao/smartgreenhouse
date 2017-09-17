@@ -32,7 +32,7 @@ anywhere anytime via an android application using internet.
 
 ## Block diagram
 
-![Alt text](/media/hari/Stuff/Major Project Latest/Latest/Project/Final_report/bd.PNG?raw=true "Block diagram of IoT based weather controlled smart greenhouse")
+![Alt text](https://github.com/melagirisriharirao/smartgreenhouse/blob/master/bd.PNG?raw=true "Block diagram of IoT based weather controlled smart greenhouse")
 
 ## Hardware connection overview
 

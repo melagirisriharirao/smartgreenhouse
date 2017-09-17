@@ -36,7 +36,7 @@ anywhere anytime via an android application using internet.
 
 ## Hardware connection overview
 
-![Alt text](/media/hari/Stuff/Major Project Latest/Latest/Project/Final_report/hw.png?raw=true "Hardware connection of IoT based weather controlled smart greenhouse")
+![Alt text](https://github.com/melagirisriharirao/smartgreenhouse/blob/master/hw.png?raw=true "Hardware connection of IoT based weather controlled smart greenhouse")
 
 ## Author
 
